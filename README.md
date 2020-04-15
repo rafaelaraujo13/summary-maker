@@ -2,8 +2,8 @@
 
 ### Delivers a summary of a specific topic on google docs
 
-![](/images/usage.gif)
-![](/images/summary.png)
+![](/media/usage.gif)
+![](/media/summary.png)
 
 ## How to Use
 
